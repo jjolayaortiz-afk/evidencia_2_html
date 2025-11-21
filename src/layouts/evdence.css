@@ -1,0 +1,9 @@
+ .form{
+    display: block;
+    background-color: lightgray;
+    width: 700px;
+    border: 2PX solid rgb(0, 0, 0);
+    margin: 20px auto;
+    border-radius: 15px;
+    box-shadow: 9px 10px 40px 0px rgba(0,0,0,0.75);;
+   }
